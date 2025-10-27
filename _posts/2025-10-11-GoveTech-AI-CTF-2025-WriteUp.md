@@ -28,7 +28,7 @@ https://co-pirate.aictf.sg
 
 Webpage view:
 
-![image.png](assets%5Cimg%5CAI_CTF_2025%5CCo_Pirate_Webpage_View.png)
+![image.png](assets/img/AI_CTF_2025/Co_Pirate_Webpage_View.png)
 
 Analysis:
 
@@ -92,7 +92,7 @@ Analysis:
 
 Getting the flag via `autocomplete` function:
 
-![image.png](assets%2Fimg%2Fimage%201.png)
+![image.png](assets/img/AI_CTF_2025/Co_Pirate_Win.png)
 
 Solution:
 
@@ -115,7 +115,7 @@ ward you generously!
 
 Webpage training data:
 
-![image.png](assets%5Cimg%5CAI_CTF_2025%5CThe_best_hedgehog_Training_Data.png)
+![image.png](assets/img/AI_CTF_2025/The_best_hedgehog_Training_Data.png)
 
 Premise:
 
@@ -151,7 +151,7 @@ shifts the hyperplane to raise the prediction at that location the most per adde
 
 Attempt 1:
 
-![image.png](assets%5Cimg%5CAI_CTF_2025%5CThe_best_hedgehog_First_Trial.png)
+![image.png](assets/img/AI_CTF_2025/The_best_hedgehog_First_Trial.png)
 
 Analysis:
 
@@ -278,7 +278,7 @@ Content-Disposition: form-data; name="evaluation_score"
 
 Results:
 
-![image.png](assets%5Cimg%5CAI_CTF_2025%5CThe_best_hedgehog_Win_message.png)
+![image.png](assets/img/AI_CTF_2025/The_best_hedgehog_Win_message.png)
 
 ## Stridesafe:
 
@@ -302,7 +302,7 @@ https://stridesafe.aictf.sg
 
 Data Folder:
 
-![image.png](assets%5Cimg%5CAI_CTF_2025%5CStride_Safe_Images.png)
+![image.png](assets/img/AI_CTF_2025/Stride_Safe_Images.png)
 
 Premise:
 
@@ -613,7 +613,7 @@ print("saved to results.png")
 
 Results:
 
-![results.png](assets%5Cimg%5CAI_CTF_2025%5CStride_Safe_Win.png)
+![results.png](assets/img/AI_CTF_2025/Stride_Safe_Win.png)
 
 Analysis:
 
