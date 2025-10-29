@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Bing Zhe's Github Page
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Projects and Writeups
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -29,7 +29,7 @@ github:
   username: Bing-Zhe # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: <NULL> # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/v2/D5603AQEMduZRCtqgmw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725971449819?e=1762992000&v=beta&t=Uju7dIT15UuRnsrVPIcnqbWluFbxGqH2pLFIxrAuLQM
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

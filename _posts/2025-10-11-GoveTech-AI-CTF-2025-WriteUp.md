@@ -161,7 +161,7 @@ Analysis:
 
 Taking a look at the implementation of the web application in app.py:
 
-```sql
+```python
 def add_hedgehog():
     """Add a new hedgehog to the database and retrain the AI model."""
     username = request.form['username']
