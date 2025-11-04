@@ -2,7 +2,7 @@
 title: "GovTech AI CTF 2025 WriteUp"
 date: 2025-10-11 09:00:00 +0800
 categories: [CTF WriteUps]
-tags: []
+tags: [machine_learning, prompt injection]
 ---
 
 # AI CTF 2025

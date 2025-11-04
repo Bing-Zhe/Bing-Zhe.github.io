@@ -2,7 +2,7 @@
 title: "TISC CTF 2025 WriteUp"
 date: 2025-09-27 09:00:00 +0800
 categories: [CTF WriteUps]
-tags: []
+tags: [reverse_engineering]
 ---
 
 # TISC CTF 2025
